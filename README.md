@@ -17,7 +17,9 @@ I am a fan of programming, modding video games and various software for them). M
  * ✨ [Steam](https://steamcommunity.com/id/sepera_okeq/)
  * ✨ [Github](https://github.com/Sepera-okeq) 
 
-[![Sepera-okeq GitHub stats](https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sepera-okeq GitHub stats](https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true&hide=cpp,javascript,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sepera-okeq&layout=compact&hide=html,css,mardown)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Sepera-okeq/Sepera-okeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
