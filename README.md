@@ -12,7 +12,7 @@ I am a fan of programming, modding video games and various software for them). M
 * And a bunch of different projects that are still closed for showing .. But soon they will be! ✨ December ✨
 
 
-## You can find me at:
+### **You can find me at:**
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sepera-okeq)
  [![VK](https://img.shields.io/badge/-Steam-000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/sepera_okeq/)
  [![Steam](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/sepera_okeq) 
@@ -23,7 +23,7 @@ I am a fan of programming, modding video games and various software for them). M
 
   <img width="60%" align="right" alt="Sepera_okeq github stats" src="https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&title_color=0070dd&icon_color=ff8000&show_owner=true&include_all_commits=true" />
 
-**Tools (and games) I use::**<br><br>
+### Tools (and games) I use:<br><br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -38,7 +38,7 @@ I am a fan of programming, modding video games and various software for them). M
   <br/>
 
 
-**Operating systems I use:**<br><br>
+### Operating systems I use:<br><br>
   <code><img width="10%" src="https://simpleicons.org/icons/windows.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/debian.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/archlinux.svg"></code>
