@@ -13,9 +13,11 @@ I am a fan of programming, modding video games and various software for them). M
 
 
 ## You can find me at:
- * ✨ [VK](https://vk.com/sepera_okeq) 
- * ✨ [Steam](https://steamcommunity.com/id/sepera_okeq/)
- * ✨ [Github](https://github.com/Sepera-okeq) 
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sepera-okeq)
+ [![VK](https://img.shields.io/badge/-Steam-000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/sepera_okeq/)
+ [![Steam](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/sepera_okeq) 
+ [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=white)]( )
+
 
 <p>
 
