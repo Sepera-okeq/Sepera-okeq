@@ -17,19 +17,27 @@ I am a fan of programming, modding video games and various software for them). M
  * ✨ [Steam](https://steamcommunity.com/id/sepera_okeq/)
  * ✨ [Github](https://github.com/Sepera-okeq) 
 
-[![Sepera-okeq GitHub stats](https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true&hide=cpp,javascript,python)](https://github.com/anuraghazra/github-readme-stats)
+<p>
 
-<!--
-**Sepera-okeq/Sepera-okeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img width="60%" align="right" alt="Sepera_okeq github stats" src="https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&title_color=0070dd&icon_color=ff8000&show_owner=true&include_all_commits=true" />
 
-Here are some ideas to get you started:
+**Tools (and games) I use::**<br><br>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-ar21.svg"></code>
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Operating systems I use:**<br><br>
+  <code><img width="10%" src="https://simpleicons.org/icons/windows.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/debian.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/archlinux.svg"></code>
+</p>
