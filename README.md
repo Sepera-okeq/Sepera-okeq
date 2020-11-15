@@ -9,7 +9,7 @@ I am a fan of programming, modding video games and various software for them). M
 * [SpriteSheetPacker, a Hearts of Iron IV mod tools](https://github.com/Sepera-okeq/SpriteSheetPacker)
 * [Modified version of MapGen with fixes under 1.9, a Hearts of Iron IV mod tools]( )
 * A huge number of small programs for Role-Play and Fun Game..
-* And a bunch of different projects that are still closed for showing .. But soon they will be! ✨ December ✨
+* And a bunch of different projects that are still closed for showing .. But soon they will be! ✨ December - January ✨
 
 
 ### **You can find me at:**
