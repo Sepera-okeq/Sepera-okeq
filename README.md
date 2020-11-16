@@ -35,6 +35,7 @@ I am a fan of programming, modding video games and various software for them). M
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-ar21.svg"></code>
+  <code><img width="8%" src="https://img.pngio.com/hearts-of-iron-gaya-entertainment-hearts-of-iron-png-400_400.png"></code>
   <br/>
 
 
