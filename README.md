@@ -34,11 +34,11 @@ I am a fan of programming, modding video games and various software for them). M
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <br/>
+### Games:<br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-ar21.svg"></code>
   <code><img width="8%" src="https://img.pngio.com/hearts-of-iron-gaya-entertainment-hearts-of-iron-png-400_400.png"></code>
   <br/>
-
-
 ### Operating systems I use:<br><br>
   <code><img width="10%" src="https://simpleicons.org/icons/windows.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/debian.svg"></code>
