@@ -23,7 +23,7 @@ I am a fan of programming, modding video games and various software for them). M
 
   <img width="60%" align="right" alt="Sepera_okeq github stats" src="https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&title_color=0070dd&icon_color=ff8000&show_owner=true&include_all_commits=true" />
 
-### Tools (and games) I use:<br><br>
+### Program languages and Tools I use:<br><br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -35,10 +35,12 @@ I am a fan of programming, modding video games and various software for them). M
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <br/>
+  
 ### Games:<br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-ar21.svg"></code>
   <code><img width="8%" src="https://img.pngio.com/hearts-of-iron-gaya-entertainment-hearts-of-iron-png-400_400.png"></code>
   <br/>
+  
 ### Operating systems I use:<br><br>
   <code><img width="10%" src="https://simpleicons.org/icons/windows.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/debian.svg"></code>
