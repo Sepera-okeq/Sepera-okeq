@@ -18,7 +18,7 @@ Make yourself some tea, and sit down for a conversation! The way of programming 
 
 * Development of applications/software for C++ (Qt5 && Qt6), Python, C#, Java, Rust, Go.
 * Understanding functional and object-oriented programming, sockets, TCP/UDP and other's.
-* Administration of Linux servers based on Arch and Debian, Docker containerization, management of Hyper-V and VMRare hypervisors.
+* Administration of Linux servers based on Arch and Debian, Docker containerization, management of Hyper-V and VMware hypervisors.
 * Management of various corporate products from Assistan (Jira, confluence) and other's companys.
 * Monitoring the software product for weaknesses and security issues.  Interesting? Here is recently found - [click](https://vk.com/wall-124436657_58187).
 * Project team management and management. Organization of other developers in the team and coordination. Administration of social networks. Communication with communities.
