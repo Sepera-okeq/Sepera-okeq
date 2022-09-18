@@ -1,16 +1,28 @@
 ### Hi there, I'm Sergey 👋
 
-I am a fan of programming, modding video games and various software for them). My favorite programming language is C++. I'm learning JS and Python. There are some small projects in Java (particularly for Minecraft). 
+Make yourself some tea, and sit down for a conversation! The way of programming is amazing!
 
 ### My projects:
 
-* [Economic Crisis 2013, a Hearts of Iron IV modification](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465)
-* [DTC, a Hearts of Iron IV modification [Abandoned]]( )
+* [Economic Crisis, a Hearts of Iron IV modification](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465)
 * [SpriteSheetPacker, a Hearts of Iron IV mod tools](https://github.com/Sepera-okeq/SpriteSheetPacker)
-* [Modified version of MapGen with fixes under 1.9, a Hearts of Iron IV mod tools]( )
+* [Modified version of MapGen with fixes under 1.9, a Hearts of Iron IV mod tools](https://vk.com/enigmalauncher)
+* [EnigmaLauncher, open source launcher for pdx games](https://vk.com/enigmalauncher)
+* [KachanovCraft, Minecraft is a project of YouTuber Kachanov](https://kachanovcraft.com)
+* Numerous fixes of various open source plugins for Minecraft.
+* Translations of various plugins and tools! Example: [hoi4geoparser](https://github.com/Sepera-okeq/hoi4geoparser) and other's.
 * A huge number of small programs for Role-Play and Fun Game..
-* And a bunch of different projects that are still closed for showing .. But soon they will be! ✨ December - January ✨
+* And much more you can find further in my profile and in my public organizations that you can see.
 
+### What can I do?
+
+* Development of applications/software for C++ (Qt5 && Qt6), Python, C#, Java, Rust, Go.
+* Understanding functional and object-oriented programming, sockets, TCP/UDP and other's.
+* Administration of Linux servers based on Arch and Debian, Docker containerization, management of Hyper-V and VMRare hypervisors.
+* Management of various corporate products from Assistan (Jira, confluence) and other's companys.
+* Monitoring the software product for weaknesses and security issues.  Interesting? Here is recently found - [click](https://vk.com/wall-124436657_58187).
+* Project team management and management. Organization of other developers in the team and coordination. Administration of social networks. Communication with communities.
+* Development and creation of UI/UX, user-friendly and human interfaces. Prototyping a design in Figma.
 
 ### **You can find me at:**
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sepera-okeq)
