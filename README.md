@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergey 👋
 
-Make yourself some tea, and sit down for a conversation! The way of programming is amazing!
+Make yourself some tea, and sit down for a conversation! The road of programming is amazing!
 
 ### My projects:
 
