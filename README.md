@@ -26,8 +26,8 @@ Make yourself some tea, and sit down for a conversation! The way of programming 
 
 ### **You can find me at:**
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sepera-okeq)
- [![VK](https://img.shields.io/badge/-Steam-000?style=flat&logo=VK&logoColor=white)](https://vk.com/sepera_okeq)
- [![Steam](https://img.shields.io/badge/-VK-000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/sepera_okeq/) 
+ [![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/sepera_okeq)
+ [![Steam](https://img.shields.io/badge/-Steam-000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/sepera_okeq/) 
  [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=white)](https://discord.gg/jjbue3F)
 
 
